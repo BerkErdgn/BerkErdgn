@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkerdgn&label=Profile%20views&color=0e75b6&style=flat" alt="berkerdgn" /> </p>
 
-- 🔭 I’m currently working on [NewsApp](https://github.com/BerkErdgn/NewsApp)
+- 🔭 I’m currently working on [IsparkApp](https://github.com/BerkErdgn/IsparkApp)
 
-- 🌱 I’m currently learning **Unity**
+- 🖤Last 3 apps I've done; [NewsApp](https://github.com/BerkErdgn/NewsApp), [TvSeriesApp-Level-2](https://github.com/BerkErdgn/TvSeriesApp-Level-2), [FoodRecipeApp](https://github.com/BerkErdgn/FoodRecipeApp)
+
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Android(Kotlin)**
 
