@@ -9,7 +9,7 @@
 
 - 🖤Last 3 apps I've done; [NewsApp](https://github.com/BerkErdgn/NewsApp), [TvSeriesApp-Level-2](https://github.com/BerkErdgn/TvSeriesApp-Level-2), [FoodRecipeApp](https://github.com/BerkErdgn/FoodRecipeApp)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Android(Kotlin)**
 
