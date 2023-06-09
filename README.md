@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **Kotlin and Python **
+- 💬 Ask me about **Kotlin and Python**
 
 - 📫 How to reach me **erdgnberk@gmail.com**
 
