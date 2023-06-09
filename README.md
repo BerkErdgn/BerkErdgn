@@ -5,13 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkerdgn&label=Profile%20views&color=0e75b6&style=flat" alt="berkerdgn" /> </p>
 
-- 🔭 I’m currently working on [Scrape-prices-and-comparison-project](https://github.com/BerkErdgn/Scrape-prices-and-comparison-project)
+- 🔭 I’m currently working on [IsparkApp](https://github.com/BerkErdgn/IsparkApp)
 
-- 🖤Last 3 apps I've done; [NewsApp](https://github.com/BerkErdgn/NewsApp), [TvSeriesApp-Level-2](https://github.com/BerkErdgn/TvSeriesApp-Level-2), [FoodRecipeApp](https://github.com/BerkErdgn/FoodRecipeApp)
+- 🖤Last 3 apps I've done **(for kotlin)** ; [NewsApp](https://github.com/BerkErdgn/NewsApp), [TvSeriesApp-Level-2](https://github.com/BerkErdgn/TvSeriesApp-Level-2), [FoodRecipeApp](https://github.com/BerkErdgn/FoodRecipeApp)
+- 
+- 🖤Last 4 apps I've done **(for Python)** ; [Django-ECommerce website](https://github.com/BerkErdgn/Django-ECommerce-website), [Scrape prices and comparison project](https://github.com/BerkErdgn/Scrape-prices-and-comparison-project), [Secret Notebook](https://github.com/BerkErdgn/ScretNotebook-fourth-assignment-100-Day-Programming-Camp), [Post it Not Django Project](https://github.com/BerkErdgn/Post-it-Not-Django-Project)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **Android(Kotlin)**
+- 💬 Ask me about **Kotlin and Python **
 
 - 📫 How to reach me **erdgnberk@gmail.com**
 
