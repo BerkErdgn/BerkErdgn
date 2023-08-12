@@ -2,10 +2,11 @@
 <h3 align="center">I'm an Android Developer and an Environmental Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
+01011001 01100101 01110011 00101100 00100000 01001001 00100111 01101101 00100000 01100001 01101110 00100000 01000001 01101110 01100100 01110010 01101111 01101001 01100100 00100000 01000100 01100101 01110110 01100101 01101100 01101111 01110000 01100101 01110010 00100000 01100001 01101110 01100100 00100000 01100001 01101110 00100000 01000101 01101110 01110110 01101001 01110010 01101111 01101110 01101101 01100101 01101110 01110100 01100001 01101100 00100000 01000101 01101110 01100111 01101001 01101110 01100101 01100101 01110010 00100000 01000100 01100101 01110110 01100101 01101100 01101111 01110000 01100101 01110010 00100000 00111010 01000100
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkerdgn&label=Profile%20views&color=0e75b6&style=flat" alt="berkerdgn" /> </p>
 
-- 🔭 I’m currently working on [kodluyoruz-yaz-challenge](https://github.com/BerkErdgn/kodluyoruz-yaz-challenge)
+- 🔭 I’m currently working on [Pokemon-app](https://github.com/BerkErdgn/pokemon-app)
 
 - 🖤Last 5 apps I've done **(for kotlin)** ; [AirPollutionApp](https://github.com/BerkErdgn/AirPollutionApp), [IsparkApp](https://github.com/BerkErdgn/IsparkApp), [NewsApp](https://github.com/BerkErdgn/NewsApp), [TvSeriesApp-Level-2](https://github.com/BerkErdgn/TvSeriesApp-Level-2), [FoodRecipeApp](https://github.com/BerkErdgn/FoodRecipeApp)
 
