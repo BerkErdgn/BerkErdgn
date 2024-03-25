@@ -10,9 +10,9 @@
 
 - 🖤Last 4 apps I've done **(for Python)** ; [Django-ECommerce website](https://github.com/BerkErdgn/Django-ECommerce-website), [Scrape prices and comparison project](https://github.com/BerkErdgn/Scrape-prices-and-comparison-project), [Secret Notebook](https://github.com/BerkErdgn/ScretNotebook-fourth-assignment-100-Day-Programming-Camp), [Post it Not Django Project](https://github.com/BerkErdgn/Post-it-Not-Django-Project)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**, **Flutter**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Kotlin and Python**
+- 💬 Ask me about **Kotlin , Python and Flutter**
 
 - 📫 How to reach me **erdgnberk@gmail.com**
 
