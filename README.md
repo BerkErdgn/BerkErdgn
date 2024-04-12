@@ -27,5 +27,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkErdgn&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
+![snake gif](https://github.com/BerkErdgn/BerkErdgn/blob/output/github-contribution-grid-snake.gif)
+
+
 ---
 
