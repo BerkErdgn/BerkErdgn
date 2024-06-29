@@ -5,9 +5,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=BerkErdgn&icon=0&color=7)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **[Fullstack Mastery](https://www.techcareer.net/bootcamp/advanced-fullstack-mastery-bootcamp)**
 
-- 💬 Ask me about **Kotlin , Python and Flutter**
+- 💬 Ask me about **Kotlin, React Native ,Flutter  and Python**
 
 - 🖤Last 7 apps I've done **(for kotlin)** ; [TvSeriesApp (Level 3)](https://github.com/BerkErdgn/TvSeriesApp-Level-3), [Pokemon app](https://github.com/BerkErdgn/pokemon-app), [AirPollutionApp](https://github.com/BerkErdgn/AirPollutionApp), [IsparkApp](https://github.com/BerkErdgn/IsparkApp), [NewsApp](https://github.com/BerkErdgn/NewsApp), [TvSeriesApp-Level-2](https://github.com/BerkErdgn/TvSeriesApp-Level-2), [FoodRecipeApp](https://github.com/BerkErdgn/FoodRecipeApp)
 
