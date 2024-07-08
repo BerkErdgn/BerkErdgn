@@ -8,10 +8,14 @@
 - 🌱 I’m currently learning **[Fullstack Mastery](https://www.techcareer.net/bootcamp/advanced-fullstack-mastery-bootcamp)**
 
 - 💬 Ask me about **Kotlin, React Native ,Flutter  and Python**
+  
+- 🖤 **Flutter** projects I have done ; [Motix](https://github.com/BerkErdgn/MotiX), [Animai](https://github.com/BerkErdgn/animai_app)
 
-- 🖤Last 7 apps I've done **(for kotlin)** ; [TvSeriesApp (Level 3)](https://github.com/BerkErdgn/TvSeriesApp-Level-3), [Pokemon app](https://github.com/BerkErdgn/pokemon-app), [AirPollutionApp](https://github.com/BerkErdgn/AirPollutionApp), [IsparkApp](https://github.com/BerkErdgn/IsparkApp), [NewsApp](https://github.com/BerkErdgn/NewsApp), [TvSeriesApp-Level-2](https://github.com/BerkErdgn/TvSeriesApp-Level-2), [FoodRecipeApp](https://github.com/BerkErdgn/FoodRecipeApp)
+- 🖤 **ReactNative** projects I have done ; [Tv Series App ReactNative](https://github.com/BerkErdgn/TvSeriesAppReactNative)
 
-- 🖤Last 4 apps I've done **(for Python)** ; [Django-ECommerce website](https://github.com/BerkErdgn/Django-ECommerce-website), [Scrape prices and comparison project](https://github.com/BerkErdgn/Scrape-prices-and-comparison-project), [Secret Notebook](https://github.com/BerkErdgn/ScretNotebook-fourth-assignment-100-Day-Programming-Camp), [Post it Not Django Project](https://github.com/BerkErdgn/Post-it-Not-Django-Project)
+- 🖤 **Kotlin** projects I have done ; [TvSeriesApp (Level 3)](https://github.com/BerkErdgn/TvSeriesApp-Level-3), [Pokemon app](https://github.com/BerkErdgn/pokemon-app), [AirPollutionApp](https://github.com/BerkErdgn/AirPollutionApp), [IsparkApp](https://github.com/BerkErdgn/IsparkApp), [NewsApp](https://github.com/BerkErdgn/NewsApp), [TvSeriesApp-Level-2](https://github.com/BerkErdgn/TvSeriesApp-Level-2), [FoodRecipeApp](https://github.com/BerkErdgn/FoodRecipeApp)
+
+- 🖤 **Python** projects I have done  ; [Django-ECommerce website](https://github.com/BerkErdgn/Django-ECommerce-website), [Scrape prices and comparison project](https://github.com/BerkErdgn/Scrape-prices-and-comparison-project), [Secret Notebook](https://github.com/BerkErdgn/ScretNotebook-fourth-assignment-100-Day-Programming-Camp), [Post it Not Django Project](https://github.com/BerkErdgn/Post-it-Not-Django-Project)
 
 - 📫 How to reach me **erdgnberk@gmail.com**
 
