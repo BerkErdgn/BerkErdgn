@@ -36,3 +36,6 @@
 
 ---
 
+![snake gif](https://github.com/BerkErdgn/BerkErdgn/blob/output/github-contribution-grid-snake.gif)
+
+
